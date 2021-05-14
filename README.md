@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Italo Gois 👋
+
+I'm front-end developer and great entusiastic of UX and UI Design. I love working with the front end because it is very close to people, and it brings good feelings with the feedbacks I receive.
+
+### Let's talk? 💬
+
+👨‍💻 [My personal Blog](https://italogois.com/) <br>
+💼 [Linkedin](https://www.linkedin.com/in/italogois/) <br>
+🐦 [Twitter](https://twitter.com/italogois_) <br>
+
+
 
 <!--
 **italogois/italogois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
