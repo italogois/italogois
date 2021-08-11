@@ -1,6 +1,6 @@
 ### Hi there, I'm Italo Gois 👋
 
-I'm front-end developer and great entusiastic of UX and UI Design. I love working with the front end because it is very close to people, and it brings good feelings with the feedbacks I receive.
+I'm front-end developer and great entusiastic of UX and UI Design.
 
 ### Let's talk? 💬
 
