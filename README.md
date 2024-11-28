@@ -4,7 +4,6 @@ I'm front-end developer and great entusiastic of UX and UI Design.
 
 ### Let's talk? 💬
 
-👨‍💻 [My personal Blog](https://italogois.com/) <br>
 💼 [Linkedin](https://www.linkedin.com/in/italogois/) <br>
 🐦 [Twitter](https://twitter.com/italogois_) <br>
 
